@@ -28,6 +28,9 @@ main {
     object-fit: cover;
     aspect-ratio: 4/3;
     height: auto;
+
+    height: auto;
+    max-width: 100%;
 }
 
 .gallery figure {
