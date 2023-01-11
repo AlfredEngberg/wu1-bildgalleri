@@ -1,6 +1,6 @@
 body {
     font-size: 1.2rem;
-    background-color:sienna;
+    background-color:lightcyan;
 }
 .container {
     width: min(80ch, 100vw - 4rem);
@@ -31,6 +31,9 @@ main {
 
     height: auto;
     max-width: 100%;
+
+    border-style: groove;
+    border-color: blanchedalmond;
 }
 
 .gallery figure {
